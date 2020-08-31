@@ -84,10 +84,10 @@ The table below gives you further ideas about how to balance your vegan diet:
 
 Food group
 Suggested intake
-
+Fruit and vegetables 
                             (fresh, tinned, frozen or dried), 
                             including orange varieties and 
-Fruit and vegetables        leafy greens At least 5 x 80g portions	
+                            leafy greens At least 5 x 80g portions	
                             per day (30g for dried fruit)
                        
 Starchy foods – ideally higher fibre choices, such as oats, sweet potato, wholemeal bread, wholewheat pasta and brown rice	Every meal
