@@ -84,6 +84,7 @@ The table below gives you further ideas about how to balance your vegan diet:
 
 Food group
 Suggested intake
+
 Fruit and vegetables 
                             (fresh, tinned, frozen or dried), 
                             including orange varieties and 
