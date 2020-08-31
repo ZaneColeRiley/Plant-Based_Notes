@@ -1,0 +1,20 @@
+jQuery(function($){function setupCountdown(){if(countdown_vars.locale=='es'){var abbrs={EST:'Eastern Standard Time',EDT:'Eastern Daylight Time',CST:'Central Standard Time',CDT:'Central Daylight Time',MST:'Mountain Standard Time',MDT:'Mountain Daylight Time',PST:'Hora estándar del Pacífico',PDT:'Hora de verano del Pacífico',};}else{var abbrs={EST:'Eastern Standard Time',EDT:'Eastern Daylight Time',CST:'Central Standard Time',CDT:'Central Daylight Time',MST:'Mountain Standard Time',MDT:'Mountain Daylight Time',PST:'Pacific Standard Time',PDT:'Pacific Daylight Time',};}
+moment.fn.zoneName=function(){var abbr=this.zoneAbbr();return abbrs[abbr]||abbr;};var timezone_offset_minutes=moment().tz(countdown_vars.timezone).utcOffset();var format_timezone=moment().tz(countdown_vars.timezone).format('zz');$('.countdown-timezone').html(format_timezone);var countdown_options={timezone:timezone_offset_minutes,format:'DHMS',labels:countdown_vars.labels,labels1:countdown_vars.labels_1,onTick:lift_off,onExpiry:turn_off,expiryText:'',layout:'<div class="countdown_day" id="empty{dn}">'+
+'<div class="countdown_label">{dn}</div>'+
+'<div class="countdown_value">{dl}</div>'+
+'</div>'+
+'<div class="countdown_hour">'+
+'<div class="countdown_label">{hn}</div>'+
+'<div class="countdown_value">{hl}</div>'+
+'</div>'+
+'<div class="countdown_minute">'+
+'<div class="countdown_label">{mn}</div>'+
+'<div class="countdown_value">{ml}</div>'+
+'</div>'+
+'<div class="countdown_second">'+
+'<div class="countdown_label">{sn}</div>'+
+'<div class="countdown_value">{sl}</div>'+
+'</div>'};$.countdown.setDefaults(countdown_options);}
+setupCountdown();function startCountdown(){if(typeof countdownEndTime!=='undefined'){$('#defaultCountdown').countdown({'until':countdownEndTime});}}
+$(document).ready(function(){startCountdown();});$(document).ajaxComplete(function(){startCountdown();});});function turn_off(){jQuery("#countdown").css("display","none");jQuery("#countdown_expire").css("display","block");}
+function lift_off(periods){if(periods[4]==0&&periods[5]==0&&periods[6]==0){jQuery("#countdown").css("display","none");jQuery("#countdown_expire").css("display","block");}}

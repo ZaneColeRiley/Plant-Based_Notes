@@ -80,9 +80,11 @@ Iodine: Iodine is important for thyroid function. Plant-based sources include se
 
 
 Balancing food groups
+
 The table below gives you further ideas about how to balance your vegan diet:
 
 Food group
+
 Suggested intake
 
 Fruit and vegetables 
