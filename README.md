@@ -143,4 +143,37 @@ Butter
 - mashed avocado
 
 
+[Vitamins]
+
+Vitamin E
+
+- Vegetable oils (such as wheat germ, sunflower, safflower, corn, and soybean oils)
+- Nuts (such as almonds, peanuts, and hazelnuts/filberts)
+- Seeds (such as sunflower seeds)
+ -Green leafy vegetables (such as spinach and broccoli)
+ 
+ 
+ Needed Vitamin Supplments
+ 
+ - Vitamin B12. Foods often touted to be rich in vitamin B12 include 
+                unwashed organic produce, mushrooms grown in B12-rich 
+                soils, nori, spirulina, chlorella, and nutritional yeast
+- Vitamin D.
+ - Long-chain omega-3s
+- Iodine
+- Iron
+- Calcium
+- Zinc
+
+Vegan sources of calcium and vitamin D
+
+- green, leafy vegetables – such as broccoli, cabbage and okra, but not spinach.
+ -fortified unsweetened soya, rice and oat drinks.
+- calcium-set tofu.
+ -sesame seeds and tahini.
+ -pulses.
+ -brown and white bread (in the UK, calcium is added to white and brown flour by law)
+
+
+
 
