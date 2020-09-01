@@ -16,6 +16,12 @@ Vegan Dinner links
 https://www.bonappetit.com/gallery/vegan-dinner-recipes-that-we-just-love
 
 
+[Good Vegan Food Ideas]
+Salad Sanwich
+
+https://www.peta.org/living/food/smashed-chickpea-avocado-salad-sandwich/
+
+
 
 (Vegan health)
 
