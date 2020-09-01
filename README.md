@@ -150,7 +150,7 @@ Vitamin E
 - Vegetable oils (such as wheat germ, sunflower, safflower, corn, and soybean oils)
 - Nuts (such as almonds, peanuts, and hazelnuts/filberts)
 - Seeds (such as sunflower seeds)
- -Green leafy vegetables (such as spinach and broccoli)
+- Green leafy vegetables (such as spinach and broccoli)
  
  
  Needed Vitamin Supplments
@@ -159,7 +159,7 @@ Vitamin E
                 unwashed organic produce, mushrooms grown in B12-rich 
                 soils, nori, spirulina, chlorella, and nutritional yeast
 - Vitamin D.
- - Long-chain omega-3s
+- Long-chain omega-3s
 - Iodine
 - Iron
 - Calcium
@@ -175,5 +175,55 @@ Vegan sources of calcium and vitamin D
 - brown and white bread (in the UK, calcium is added to white and brown flour by law)
 
 
+Iodine Sources
 
+- wholegrains
+- green beans
+- courgettes 
+- kale 
+- spring greens 
+- watercress
+- strawberries 
+- organic potatoes with skin
+
+Iron Sources
+
+- entils, 
+- chickpeas, 
+- beans, 
+- tofu, 
+- cashew nuts, 
+- chia seeds, 
+- ground linseed, 
+- hemp seeds, 
+- pumpkin seeds, 
+- kale, 
+- dried apricots 
+- figs, raisins, 
+- quinoa 
+- fortified breakfast cereal (fortified means no added nutrients or no nutrients was lost)
+
+
+Zinc Sources
+
+- beans, 
+- chickpeas, 
+- lentils, 
+- tofu, 
+- walnuts, 
+- cashew nuts,
+- chia seeds, 
+- ground linseed, 
+- hemp seeds, 
+- pumpkin seeds, 
+- wholemeal bread 
+- quinoa
+
+Omega-3s Sources
+
+- chia seeds, 
+- ground linseed, 
+- hemp seeds 
+- walnuts, 
+- use vegetable (rapeseed) oil as your main cooking oil
 
