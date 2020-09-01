@@ -168,11 +168,11 @@ Vitamin E
 Vegan sources of calcium and vitamin D
 
 - green, leafy vegetables – such as broccoli, cabbage and okra, but not spinach.
- -fortified unsweetened soya, rice and oat drinks.
+- fortified unsweetened soya, rice and oat drinks.
 - calcium-set tofu.
- -sesame seeds and tahini.
- -pulses.
- -brown and white bread (in the UK, calcium is added to white and brown flour by law)
+- sesame seeds and tahini.
+- pulses.
+- brown and white bread (in the UK, calcium is added to white and brown flour by law)
 
 
 
