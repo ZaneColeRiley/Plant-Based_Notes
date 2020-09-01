@@ -151,6 +151,11 @@ Vitamin E
 - Nuts (such as almonds, peanuts, and hazelnuts/filberts)
 - Seeds (such as sunflower seeds)
 - Green leafy vegetables (such as spinach and broccoli)
+- raw wheat germ, 
+- nuts, 
+- peanuts, 
+- whole wheat flour, 
+- whole grains, s
  
  
  Needed Vitamin Supplments
@@ -175,8 +180,25 @@ Vegan sources of calcium and vitamin D
 - brown and white bread (in the UK, calcium is added to white and brown flour by law)
 
 
-Iodine Sources
+Calcium Sources
+- build and maintain strong bones. Your heart, muscles and     nerves also need calcium to function properly
+- broccoli, 
+- green leafy vegetables (such as kale, bok choy, collard and turnip greens), 
+- tofu, 
+- blackstrap molasses,
+- chickpeas, 
+- many beans, 
+- sesame seeds, 
+- sunflower seeds, 
+- almonds, 
+- flax seeds, 
+- brazil nuts, 
+- dried figs, 
+- dried fruit
 
+
+Iodine Sources
+- The body needs iodine to make thyroid hormones
 - wholegrains
 - green beans
 - courgettes 
@@ -187,7 +209,7 @@ Iodine Sources
 - organic potatoes with skin
 
 Iron Sources
-
+- Iron has a role in creating energy from nutrients
 - entils, 
 - chickpeas, 
 - beans, 
@@ -202,10 +224,20 @@ Iron Sources
 - figs, raisins, 
 - quinoa 
 - fortified breakfast cereal (fortified means no added nutrients or no nutrients was lost)
+- green leafy vegetables & sea vegetables, 
+- legumes/beans, 
+- nuts & seeds, 
+- blackstrap molasses, 
+- dried fruits, 
+- watermelon, 
+- prune juice, 
+- spinach, 
+- cereals, 
+- whole grains.
 
 
 Zinc Sources
-
+- important to wound healing and your sense of taste and       smell
 - beans, 
 - chickpeas, 
 - lentils, 
@@ -218,6 +250,18 @@ Zinc Sources
 - pumpkin seeds, 
 - wholemeal bread 
 - quinoa
+- whole grains/cereals, 
+- legumes,
+- peas, 
+- soy foods, 
+- nuts, 
+- sunflower seeds, 
+- wheat germ, 
+- yeast, 
+- garbanzo beans, 
+- raw collard greens, 
+- spinach, 
+- corn.
 
 Omega-3s Sources
 
@@ -226,4 +270,258 @@ Omega-3s Sources
 - hemp seeds 
 - walnuts, 
 - use vegetable (rapeseed) oil as your main cooking oil
+
+
+Magnesium
+- is important for many processes in the body, including       regulating muscle and nerve function, blood sugar levels,     and blood pressure and making protein, bone, and DNA
+- brown rice, 
+- cooked spinach, 
+- beans/legumes, 
+- almonds/nuts, 
+- dried figs, 
+- broccoli, 
+- cooked oatmeal, 
+- wheat germ/bran, 
+- whole grains, 
+- green leafy vegetables, 
+- bananas, 
+- peanuts.
+
+
+Phosphorus
+- formation of bones and teeth. It plays an important role in   how the body uses carbohydrates and fats
+- pinto beans, 
+- cereal grains, 
+- almonds, 
+- nuts, 
+- dried beans, 
+- peas, 
+- lentils, 
+- peanuts, 
+- brown rice, 
+- avocados, 
+- spinach, 
+- many vegetables,
+- yeast.
+
+
+Potassium
+- It helps regulate fluid balance, muscle contractions and     nerve signals
+- raisins, 
+- bananas, 
+- raw and cooked spinach, 
+- potatoes, 
+- baked sweet potatoes, 
+- winter squash, 
+- raw cauliflower, 
+- avocados, 
+- kiwifruit, 
+- dried fruits, 
+- tomatoes, 
+- oranges, 
+- grapefruit, 
+- strawberries, 
+- honeydew melon, 
+- cantaloupe, 
+- dried apricots.
+
+
+Selenium
+- metabolism and thyroid function and helps protect your body   from damage caused by oxidative stress,
+  slow age-related mental decline, and even reduce your risk of heart disease.
+- brazil nuts, 
+- certain mushrooms (crimini & shiitake), 
+- whole grains (especially barley), 
+- tofu, 
+- seeds (especially chia, sunflower, sesame & flax), 
+- asparagus, 
+- mustard seeds.
+
+
+Manganese
+- aiding metabolism, helping regulate blood sugar,             contributing to decreased inflammation
+- brown rice & whole grains,
+- cereals, cooked oatmeal,
+- wheat germ,
+- nuts,
+- seeds,
+- legumes,
+- cooked spinach & kale, 
+- black beans, 
+- almonds, 
+- avocados, 
+- pineapples, 
+- strawberries.
+
+
+Molybdenum
+- activates enzymes that help break down harmful sulfites and   prevent toxins from building up in the body
+- beans, 
+- breads, 
+- cereals, 
+- cooked spinach, 
+- strawberries.
+
+
+Pantothenic Acid
+- helps the body use fats and protein
+- whole grain cereals, 
+- legumes,
+- mushrooms,
+- peanuts,
+- soybeans,
+- avocados,
+- sunflower seeds,
+- bananas,
+- oranges,
+- cooked collard greens,
+- baked potato,
+- broccoli.
+
+
+Chromium
+- improve insulin sensitivity and enhance protein,             carbohydrate, and lipid metabolism. It is a metallic         element that people need very small quantities
+- whole grains,
+- nuts,
+- broccoli,
+- apples,
+- peanuts,
+- cooked spinach,
+- mushrooms.
+
+
+Biotin
+- helps convert certain nutrients into energy
+- cereals & whole grains,
+- breads,
+- yeast,
+- almonds,
+- peanuts,
+- molasses,
+- legumes.
+
+
+Copper
+- Together with iron, it enables the body to form red blood     cells. It helps maintain healthy bones, blood vessels,       nerves, and immune function, and it contributes to iron       absorption
+- nuts and seeds,
+- whole grains,
+- dried beans,
+- mushrooms.
+
+
+Folic Acid
+- Folic acid acts by helping the body produce and maintain     new cells
+- legumes,
+- lentils,
+- oranges,
+- whole grains,
+- asparagus,
+- spinach,
+- romaine lettuce.
+
+
+Vitamin A
+- is important for normal vision, the immune system
+- carrots,
+- winter squashes (acorn and butternut),
+- sweet potatoes,
+- cantaloupe,
+- apricots, 
+- spinach,
+- kale, 
+- turnip greens,
+- broccoli
+- red bell peppers and other greens
+
+
+Vitamin B1 (Thiamin)
+- enables the body to use carbohydrates as energy. It is       essential for glucose metabolism, and it plays a key role   in nerve, muscle, and heart function
+- brown rice & whole grains,
+- bread, pasta,
+- oatmeal, 
+- brewers and nutritional yeast,
+- legumes,
+- cereals,
+- sunflower seeds,
+- nuts,
+- watermelon,
+- raw wheat germ.
+
+
+Riboflavin
+- is needed for growth and . It helps the body break down       carbohydrates, proteins and fats to produce energy
+- yeast, 
+- beans, 
+- cereals, 
+- whole grains,
+- spinach, broccoli,
+- wheat germ,
+- mushrooms
+
+
+Vitamin B3 (Niacin)
+- used to lower high cholesterol levels in the body
+- legumes, 
+- brown rice, 
+- green vegetables, 
+- potatoes, 
+- tomatoes, 
+- broccoli.
+
+
+Vitamin B6
+- for preventing and treating low levels of pyridoxine and the anemia that may result
+- whole grains, 
+- peanuts, 
+- nuts/legumes, 
+- soybeans, 
+- walnuts, 
+- bananas, 
+- watermelon
+
+
+Vitamin C
+- helping to protect cells and keeping them healthy. maintaining healthy skin, blood vessels, bones and cartilage
+- bell peppers,
+- broccoli, 
+- tomatoes, 
+- strawberries, 
+- oranges/orange juice, 
+- grapefruit, 
+- tomatoes, 
+- brussels sprouts, 
+- cabbage, 
+- collard greens,
+- turnip greens, 
+- spinach, 
+- potatoes, 
+- melon, 
+- berries, 
+- papayas, 
+- romaine lettuce, 
+- watercress.
+
+
+
+Vitamin K 
+- important for blood clotting and healthy bones
+- green leafy vegetables, 
+- spinach, 
+- turnip greens, 
+- kale, parsley, 
+- brussels sprouts, 
+- broccoli, 
+- cauliflower, 
+- soybeans and soybean oil, 
+- cabbage, 
+- green tea, 
+- tomatoes.
+
+
+
+
+
+
+
+
 
