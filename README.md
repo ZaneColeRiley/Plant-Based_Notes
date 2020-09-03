@@ -28,7 +28,7 @@ https://www.peta.org/living/food/smashed-chickpea-avocado-salad-sandwich/
 
 [Vegan Cheeses]
 
-https://www.thespruceeats.com/best-dairy-free-cheeses-1001581
+https://daiyafoods.com/our-foods/shreds/mozzarella-cutting-board-shreds/
 
 
 (Vegan health)
